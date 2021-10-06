@@ -1,8 +1,11 @@
-# Hiring With CARE
+theme: Fira, 3
+list: alignment(left)
 
-## Ian Whitney
-### Manager, ASR Custom Solutions
-### he/his
+# [fit] Hiring With CARE
+
+[`https://z.umn.edu/hiring_with_care`](https://z.umn.edu/hiring_with_care)
+
+[.footer: Ian Whitney (he/his), manager ASR Custom Solutions]
 
 ---
 
@@ -79,6 +82,8 @@
 
 - Recognize the importance of diversity hiring
 - Dedicate time to include DEI hiring principles and practices in your process.
+
+[.footer: CARE > Commitment]
 
 ---
 
@@ -183,9 +188,9 @@
 
 # Job Posting
 
-image here
+![inline](images/posting.png)
 
-z link here
+[`https://z.umn.edu/asr_job_description`](https://z.umn.edu/asr_job_description)
 
 ^ Read summary of above
 ^ This one is different from what goes up on the U Jobs site, because we can put a lot more detail here
@@ -250,7 +255,7 @@ Once we have an applicant we focus on honest, transparent communication
 
 [.footer: CARE > Representation > Diverse Hiring Committees]
 
-# Reflect who the candidate will be working with
+# Reflect the full team
 
 ^ My team is small enough that we are all involved in hiring committees
 ^ But the team also works with folks from other groups
@@ -260,7 +265,7 @@ Once we have an applicant we focus on honest, transparent communication
 
 [.footer: CARE > Representation > Diverse Hiring Committees]
 
-# [fit] Honestly reflect your diversity
+# Honestly reflect your diversity
 
 ^ So, there's obviously a value in having committees show the diversity your department currently has
 ^ 
@@ -295,9 +300,9 @@ Once we have an applicant we focus on honest, transparent communication
 
 # Empathy
 
-- Give the candidates every opportunity to succeed.
-- Remove barriers to the hiring process.
-- Provide a welcoming environment for all candidates.
+- Give the candidates every opportunity to succeed
+- Remove barriers to the hiring process
+- Provide a welcoming environment for all candidates
 
 ---
 
@@ -341,3 +346,11 @@ Once we have an applicant we focus on honest, transparent communication
 ---
 
 # [fit] Hiring Diverse Teams<br>Takes Time<br>and<br>Intentionality
+
+---
+
+# [fit] Hiring With CARE
+
+[`https://z.umn.edu/hiring_with_care`](https://z.umn.edu/hiring_with_care)
+
+[.footer: Ian Whitney (he/his), manager ASR Custom Solutions]
